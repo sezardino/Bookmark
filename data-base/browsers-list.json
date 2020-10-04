@@ -1,5 +1,5 @@
 [
-  {"id":1, "name": "Chrome", "min_version": "62", "img": "./img/logo-chrome.svg"},
-  {"id":2, "name": "Firefox", "min_version": "46", "img": "./img/logo-firefox.svg"},
-  {"id":3, "name": "Opera", "min_version": "56", "img": "./img/logo-opera.svg"}
+  {"id":1, "name": "Chrome", "min_version": "62", "img": "./Bookmark/img/logo-chrome.svg"},
+  {"id":2, "name": "Firefox", "min_version": "46", "img": "./Bookmark/img/logo-firefox.svg"},
+  {"id":3, "name": "Opera", "min_version": "56", "img": "./Bookmark/img/logo-opera.svg"}
 ]
