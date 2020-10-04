@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Form Component Form rendered correctly 1`] = `
+"<form action=\\"#\\" method=\\"post\\" className=\\"form subscribe__form \\" onSubmit={[Function: onSubmit]}>
+  <label htmlFor=\\"mail\\" className=\\"form__error\\">
+    <input type=\\"email\\" id=\\"mail\\" name=\\"mail\\" minLength={3} placeholder=\\"Enter your email address\\" className=\\"form__mail\\" value=\\"\\" onChange={[Function: onChange]} />
+    <p className=\\"img-wrapper form__img\\">
+      <img src=\\"./img/icon-error.svg\\" alt=\\"error\\" />
+    </p>
+    <span className=\\"form__indicator\\" />
+  </label>
+  <button type=\\"submit\\" className=\\"button button--red button--form form__button\\" onClick={[Function: submitHandler]}>
+    Contact us
+  </button>
+</form>"
+`;

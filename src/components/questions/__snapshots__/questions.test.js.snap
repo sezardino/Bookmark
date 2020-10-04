@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Questions Component Questions rendered correctly 1`] = `
+"<Fragment>
+  <ul className=\\"questions faq__questions\\" />
+  <button type=\\"button\\" className=\\"button button--blue faq__button\\" onClick={[Function: onClick]}>
+    More Questions
+  </button>
+</Fragment>"
+`;

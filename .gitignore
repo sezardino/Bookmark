@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/zad
 /.pnp
 .pnp.js
 

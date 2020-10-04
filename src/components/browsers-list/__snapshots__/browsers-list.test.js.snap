@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component BrowsersList Component BrowsersList rendered correctly 1`] = `
+"<ul className=\\"download__cards cards\\">
+  <li className=\\"cards__item\\">
+    <p className=\\"img-wrapper cards__img\\">
+      <img src={[undefined]} alt=\\"Some logotype\\" />
+    </p>
+    <h3 className=\\"cards__title title\\">
+      Add to Chrome
+    </h3>
+    <p className=\\"cards__subtitle\\">
+      Minimum version 
+      11
+    </p>
+    <Link to=\\"/extension\\" className=\\"button button--blue button--cards cards__button\\">
+      Add &amp; Instal Extension
+    </Link>
+  </li>
+  <li className=\\"cards__item\\">
+    <p className=\\"img-wrapper cards__img\\">
+      <img src={[undefined]} alt=\\"Some logotype\\" />
+    </p>
+    <h3 className=\\"cards__title title\\">
+      Add to Chrome
+    </h3>
+    <p className=\\"cards__subtitle\\">
+      Minimum version 
+      22
+    </p>
+    <Link to=\\"/extension\\" className=\\"button button--blue button--cards cards__button\\">
+      Add &amp; Instal Extension
+    </Link>
+  </li>
+  <li className=\\"cards__item\\">
+    <p className=\\"img-wrapper cards__img\\">
+      <img src={[undefined]} alt=\\"Some logotype\\" />
+    </p>
+    <h3 className=\\"cards__title title\\">
+      Add to Chrome
+    </h3>
+    <p className=\\"cards__subtitle\\">
+      Minimum version 
+      33
+    </p>
+    <Link to=\\"/extension\\" className=\\"button button--blue button--cards cards__button\\">
+      Add &amp; Instal Extension
+    </Link>
+  </li>
+</ul>"
+`;

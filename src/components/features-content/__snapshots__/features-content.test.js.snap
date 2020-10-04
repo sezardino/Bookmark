@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component FeaturesContent Component FeaturesContent rendered correctly 1`] = `
+"<Fragment>
+  <ul className=\\"tabs features__tabs\\">
+    <li tabIndex=\\"0\\" className=\\"tabs__item tabs__item--active\\" onClick={[Function: onClick]} />
+    <li tabIndex=\\"0\\" className=\\"tabs__item \\" onClick={[Function: onClick]} />
+    <li tabIndex=\\"0\\" className=\\"tabs__item \\" onClick={[Function: onClick]} />
+  </ul>
+  <ul className=\\"content features__content\\">
+    <li className=\\"content__item content__item--active\\">
+      <p className=\\"img-wrapper content__img pseudo pseudo--left\\">
+        <img src=\\"./src/img.jpg\\" alt=\\"Title\\" />
+      </p>
+      <div className=\\"content__wrapper\\">
+        <h2 className=\\"content__title title\\">
+          Title
+        </h2>
+        <p className=\\"content__text text\\">
+          Text
+        </p>
+        <Link to=\\"/extension\\" className=\\"button button--content button--blue content__button\\">
+          More Info
+        </Link>
+      </div>
+    </li>
+    <li className=\\"content__item \\">
+      <p className=\\"img-wrapper content__img pseudo pseudo--left\\">
+        <img src=\\"./src/img.jpg\\" alt=\\"Title\\" />
+      </p>
+      <div className=\\"content__wrapper\\">
+        <h2 className=\\"content__title title\\">
+          Title
+        </h2>
+        <p className=\\"content__text text\\">
+          Text
+        </p>
+        <Link to=\\"/extension\\" className=\\"button button--content button--blue content__button\\">
+          More Info
+        </Link>
+      </div>
+    </li>
+    <li className=\\"content__item \\">
+      <p className=\\"img-wrapper content__img pseudo pseudo--left\\">
+        <img src=\\"./src/img.jpg\\" alt=\\"Title\\" />
+      </p>
+      <div className=\\"content__wrapper\\">
+        <h2 className=\\"content__title title\\">
+          Title
+        </h2>
+        <p className=\\"content__text text\\">
+          Text
+        </p>
+        <Link to=\\"/extension\\" className=\\"button button--content button--blue content__button\\">
+          More Info
+        </Link>
+      </div>
+    </li>
+  </ul>
+</Fragment>"
+`;

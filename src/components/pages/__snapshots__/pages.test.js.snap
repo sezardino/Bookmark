@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component ContactPage Component ContactPage rendered correctly 1`] = `
+"<div className=\\"some-page\\">
+  <h1 className=\\"main-title\\">
+    Here Can Be Contact Page
+  </h1>
+</div>"
+`;
+
+exports[`Component ExtensionPage Component ExtensionPage rendered correctly 1`] = `
+"<div className=\\"some-page\\">
+  <h1 className=\\"main-title\\">
+    Here Can Be ExtensionPage Page
+  </h1>
+  <p>
+    where can find extension what you need
+  </p>
+</div>"
+`;
+
+exports[`Component HomePage Component HomePage rendered correctly 1`] = `
+"<main>
+  <h1 className=\\"hidden\\">
+    Bookmark Manager
+  </h1>
+  <section className=\\"hero\\">
+    <div className=\\"container hero__container\\">
+      <p className=\\"img-wrapper hero__img pseudo pseudo--right\\">
+        <img src=\\"./img/illustration-hero.svg\\" alt=\\"how its looks like\\" />
+      </p>
+      <div className=\\"description hero__description\\">
+        <h2 className=\\"description__title title\\">
+          A Simple Bookmark Manager
+        </h2>
+        <p className=\\"description__text text\\">
+          A clean and simple interface to organize your favourite websites. Open a new browser tab and see your sites load instantly. Try it for free.
+        </p>
+        <div className=\\"description__buttons\\">
+          <Link to=\\"/extension\\" className=\\"button button--hero button--hero-google button--blue\\">
+            Get in on Chrome
+          </Link>
+          <Link to=\\"/extension\\" className=\\"button button--hero button--hero-fox button--white\\">
+            Get in on Firefox
+          </Link>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section className=\\"features\\" id=\\"features\\">
+    <div className=\\"container features__container\\">
+      <h2 className=\\"features__title title\\">
+        Features
+      </h2>
+      <p className=\\"features__text text\\">
+        Our aim is to make it quick easy for you to access your favourite websites. Your bookmarks sync between yuor devices so you can access them on the go.
+      </p>
+      <FeaturesContent data={{...}} />
+    </div>
+  </section>
+  <section className=\\"download\\">
+    <h2 className=\\"hidden\\">
+      How to download
+    </h2>
+    <div className=\\"container download__container\\">
+      <h3 className=\\"download__title title\\">
+        Download the extension
+      </h3>
+      <p className=\\"download__text\\">
+        We&#39;ve got more browsers in the pipeline. Please do let us know if you&#39;ve got a favourite you&#39;d like us to prioritize.
+      </p>
+      <BrowsersList data={{...}} />
+    </div>
+  </section>
+  <section className=\\"faq\\">
+    <div className=\\"container faq__container\\">
+      <h2 className=\\"faq__title title\\">
+        Frequently Asked Questions
+      </h2>
+      <p className=\\"faq__text text\\">
+        Here are some of our FAQs. If you have any other questions you&#39;d like answered please feel free email us.
+      </p>
+      <Questions data={{...}} listCount={4} />
+    </div>
+  </section>
+</main>"
+`;
+
+exports[`Component InfoPage Component InfoPage rendered correctly 1`] = `
+"<div className=\\"some-page\\">
+  <h1 className=\\"main-title\\">
+    Here Can Be Info Page
+  </h1>
+  <p>
+    where can you find more information
+  </p>
+</div>"
+`;
+
+exports[`Component LoginPage Component LoginPage rendered correctly 1`] = `
+"<div className=\\"some-page\\">
+  <h1 className=\\"main-title\\">
+    Here Can Be Login Page
+  </h1>
+</div>"
+`;
+
+exports[`Component NoPage Component NoPage rendered correctly 1`] = `
+"<div className=\\"some-page\\">
+  <h1 className=\\"main-title\\">
+    Wrong address
+  </h1>
+  <Link to=\\"/\\">
+    To Home Page
+  </Link>
+</div>"
+`;
+
+exports[`Component Pricing Component Pricing rendered correctly 1`] = `
+"<div className=\\"some-page\\">
+  <h1 className=\\"main-title\\">
+    Here Can Be Price Page
+  </h1>
+</div>"
+`;

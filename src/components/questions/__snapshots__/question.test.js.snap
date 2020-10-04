@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Question Component Question rendered correctly 1`] = `
+"<li className=\\"questions__item \\">
+  <button className=\\"button button--questions questions__button\\" onClick={[Function: onClick]}>
+    question
+    <span className=\\"button button--arrow \\">
+      <svg xmlns=\\"http://www.w3.org/2000/svg\\" width={18} height={12}>
+        <path className=\\"arrow\\" fill=\\"none\\" stroke=\\"#5267DF\\" strokeWidth={3} d=\\"M1 1l8 8 8-8\\" />
+      </svg>
+    </span>
+  </button>
+  <p className=\\"questions__text\\">
+    answer
+  </p>
+</li>"
+`;
